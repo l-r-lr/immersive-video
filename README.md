@@ -1,4 +1,4 @@
-# 沉浸式视频播放器immersive-video术文档
+# 沉浸式视频播放器immersive-video
 在线体验地址：https://immersive-video.wntab.work
 ## 一、项目概述
 
